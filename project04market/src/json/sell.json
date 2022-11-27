@@ -1,0 +1,34 @@
+{
+    "list": [
+        {
+            "title": "토기 팝니다",
+            "price": "300000",
+            "place": "광주 동구",
+            "photo": "https://newsimg.sedaily.com/2019/12/03/1VRXJ85IBN_17.jpg"
+        },
+        {
+            "title": "옷장 나눔",
+            "price": "0",
+            "place": "광주 서구",
+            "photo": "https://media.bunjang.co.kr/product/167334804_1_1634677997_w%7Bres%7D.jpg"
+        },
+        {
+            "title": "불상",
+            "price": "30000",
+            "place": "광주 남구",
+            "photo": "http://www.ibulgyo.com/news/photo/202009/208008_217170_1825.jpg"
+        },
+        {
+            "title": "청자 팔아요",
+            "price": "50000",
+            "place": "광주 광산구",
+            "photo": "https://file.mk.co.kr/mkde/N0/2019/12/20191231_4346025_1577770708.jpeg"
+        },
+        {
+            "title": "향로 사실분",
+            "price": "400000",
+            "place": "광주 서구 풍암동",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%EB%B0%B1%EC%A0%9C_%EA%B8%88%EB%8F%99%EB%8C%80%ED%96%A5%EB%A1%9C.jpg"
+        }
+    ]
+}

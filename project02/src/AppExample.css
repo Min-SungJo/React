@@ -1,0 +1,20 @@
+#team{
+    color:#733814;
+    font-weight: bold;
+    font-family: "궁서체";
+}
+#name{
+    color:#891111;
+    font-weight: bold;
+    font-size: 80%;
+}
+.field{
+    margin: 20px;
+    background-color: #e7984a;
+    border-radius: 15px;
+}
+div{
+    background-color: rgb(208, 208, 208);
+    display: flex;
+    text-align: center;
+}
